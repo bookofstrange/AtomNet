@@ -1,0 +1,2 @@
+model_checkpoint_path: "AtomNet_2.ckpt"
+all_model_checkpoint_paths: "AtomNet_2.ckpt"
